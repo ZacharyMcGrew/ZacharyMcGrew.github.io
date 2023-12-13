@@ -22,6 +22,11 @@
       border: 4px solid aquamarine;
       margin: 5% 5% 5% 5%;
     }
+    img:hover{
+      width: 95%;
+      border: 6px solid aqua;
+      margin: 5% 5% 5% 5%;
+    }
     a, h2{
       color:#ff00ff;
       text-align:center; 

@@ -32,7 +32,7 @@
       text-align:center; 
     }
     a:visited {
-      text-decoration: underline dashed; /* remove underlining on anchor tags */
+      text-decoration:  dashed underline; /* remove underlining on anchor tags */
       color: aqua; /* pick the color you want */
     }
     a:hover {

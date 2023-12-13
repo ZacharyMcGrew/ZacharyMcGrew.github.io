@@ -24,7 +24,7 @@
     }
     img:hover{
       width: 95%;
-      border: 6px solid aqua;
+      border: 6px solid red;
       margin: 2% 2% 2% 2%;
     }
     a{
@@ -33,9 +33,9 @@
     }
     a:hover {
       text-decoration: none; /* remove underlining on anchor tags */
-      color: aqua; /* pick the color you want */
-    }
-    a:clicked {
-      text-decoration: dashed; /* remove underlining on anchor tags */
       color: red; /* pick the color you want */
+    }
+    a:visited {
+      text-decoration: dashed; /* remove underlining on anchor tags */
+      color: aqua; /* pick the color you want */
     }
